@@ -1,0 +1,15 @@
+{
+  "authorName": "Chengwen",
+  "books": [
+    {
+      "title": "Java expert",
+      "inPrint": true,
+      "publishDate": "2022-06-01"
+    },
+    {
+      "title": "Python expert",
+      "inPrint": false,
+      "publishDate": "2022-01-01"
+    }
+  ]
+}
